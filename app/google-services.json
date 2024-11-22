@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "974578903843",
+    "project_id": "trabajobdd02",
+    "storage_bucket": "trabajobdd02.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974578903843:android:6dd54929f679b03832fa96",
+        "android_client_info": {
+          "package_name": "cl.ipgv.appfinaltllevo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3CWt4hrss26caxy4YsyvFMiYrj2MH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974578903843:android:5a6d037896c1222232fa96",
+        "android_client_info": {
+          "package_name": "cl.ipgv.mapa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3CWt4hrss26caxy4YsyvFMiYrj2MH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974578903843:android:ec0aa2cd36a74e9732fa96",
+        "android_client_info": {
+          "package_name": "com.ipgv.trabajobdd02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS3CWt4hrss26caxy4YsyvFMiYrj2MH38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
